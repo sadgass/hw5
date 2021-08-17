@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\hwex2\hwex2\bin\Debug\hwex2.exe.config
+C:\Users\User\source\repos\hwex2\hwex2\bin\Debug\hwex2.exe
+C:\Users\User\source\repos\hwex2\hwex2\bin\Debug\hwex2.pdb
+C:\Users\User\source\repos\hwex2\hwex2\obj\Debug\hwex2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hwex2\hwex2\obj\Debug\hwex2.exe
+C:\Users\User\source\repos\hwex2\hwex2\obj\Debug\hwex2.pdb
